@@ -31,9 +31,13 @@ return 0;
 
 ## Output:
 DES Encryption Demonstration
+
 Plaintext: HELLO123
+
 Key: 12345678
+
 Encryption and decryption require the complete DES algorithm.
+
 
 <img width="781" height="182" alt="image" src="https://github.com/user-attachments/assets/5962980a-f943-4fa7-8675-978c3c17cdb2" />
 
